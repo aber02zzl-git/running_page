@@ -1,5 +1,5 @@
 
-# [作者跑步主页](https://yihong.run/running)
+# [作者跑步主页](https://yihong.run)
 # [作者源代码](https://github.com/yihong0618/running_page)
 
 
