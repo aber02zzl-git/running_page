@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://baidu.com/running_page/sitemap/sitemap-index.xml
-Host: https://baidu.com
+Sitemap: https://learnplant.github.io/running_page/sitemap/sitemap-index.xml
+Host: https://learnplant.github.io
